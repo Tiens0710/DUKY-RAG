@@ -2,7 +2,7 @@
 
 Hệ thống chatbot hỗ trợ thông tin dự án Duky AI sử dụng RAG (Retrieval-Augmented Generation) với Gemini API và ChromaDB.
 
-## 🚀 Cài đặt
+## Cài đặt
 
 1. **Clone repository:**
    ```bash
@@ -18,14 +18,14 @@ Hệ thống chatbot hỗ trợ thông tin dự án Duky AI sử dụng RAG (Ret
 3. **Cấu hình môi trường:**
    - Nhập `GEMINI_API_KEY` của bạn vào file `.env`.
 
-## 💻 Sử dụng
+## Sử dụng
 
 Chạy chương trình chính:
 ```bash
 python -m app.main
 ```
 
-## 📂 Cấu trúc thư mục
+## Cấu trúc thư mục
 
 - `app/`: Mã nguồn chính.
 - `src/`: Chứa dữ liệu dataset (.jsonl).
