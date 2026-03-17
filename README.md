@@ -16,7 +16,6 @@ Hệ thống chatbot hỗ trợ thông tin dự án Duky AI sử dụng RAG (Ret
    ```
 
 3. **Cấu hình môi trường:**
-   - Copy file `.env.example` thành `.env`.
    - Nhập `GEMINI_API_KEY` của bạn vào file `.env`.
 
 ## 💻 Sử dụng
