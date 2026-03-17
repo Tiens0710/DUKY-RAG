@@ -6,7 +6,7 @@ Hệ thống chatbot hỗ trợ thông tin dự án Duky AI sử dụng RAG (Ret
 
 1. **Clone repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone (https://github.com/Tiens0710/DUKY-RAG.git)
    cd dukyai-rag
    ```
 
